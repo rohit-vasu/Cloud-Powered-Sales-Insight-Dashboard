@@ -1,0 +1,201 @@
+Date,Product,Region,Units Sold,Unit Price,Total Sales
+2023-11-24,Laptop,East Coast,9,405.09,3645.81
+2023-03-13,Mouse,East Coast,18,176.06,3169.08
+2023-08-05,Laptop,East Coast,3,367.03,1101.09
+2023-09-16,Keyboard,East Coast,18,338.31,6089.58
+2023-11-29,Mouse,South,8,701.35,5610.8
+2023-05-23,Tablet,East Coast,6,1062.3,6373.8
+2023-06-24,Headphones,West Coast,7,1437.96,10065.72
+2023-06-22,Laptop,East Coast,13,190.24,2473.12
+2023-06-26,Keyboard,Midwest,2,1108.11,2216.22
+2023-10-02,Laptop,South,3,850.46,2551.38
+2023-11-18,Keyboard,Midwest,19,328.82,6247.58
+2023-02-05,Laptop,West Coast,10,1478.57,14785.7
+2023-04-30,Tablet,East Coast,13,453.06,5889.78
+2023-11-22,Tablet,Midwest,6,586.76,3520.56
+2023-04-18,Mouse,Midwest,3,933.24,2799.72
+2023-03-29,Keyboard,West Coast,6,720.28,4321.68
+2023-05-19,Mouse,West Coast,11,1272.14,13993.54
+2023-01-29,Smartphone,East Coast,11,631.69,6948.59
+2023-02-03,Smartphone,Midwest,7,1000.39,7002.73
+2023-07-22,Mouse,South,5,434.08,2170.4
+2023-05-07,Mouse,Midwest,19,671.23,12753.37
+2023-10-26,Monitor,Midwest,8,1496.12,11968.96
+2023-03-12,Keyboard,South,3,1145.88,3437.64
+2023-02-26,Smartphone,West Coast,14,914.79,12807.06
+2023-07-17,Monitor,South,17,414.55,7047.35
+2023-10-11,Tablet,East Coast,4,1038.48,4153.92
+2023-10-02,Tablet,Midwest,11,211.75,2329.25
+2023-08-11,Smartphone,South,1,1433.03,1433.03
+2023-05-15,Keyboard,West Coast,17,1373.31,23346.27
+2023-11-17,Headphones,West Coast,5,592.18,2960.9
+2023-03-24,Keyboard,East Coast,20,520.03,10400.6
+2023-01-10,Laptop,Midwest,10,397.21,3972.1
+2023-05-04,Keyboard,East Coast,3,1111.27,3333.81
+2023-02-05,Tablet,West Coast,5,1006.64,5033.2
+2023-10-09,Smartphone,Midwest,17,1315.03,22355.51
+2023-08-05,Smartphone,West Coast,10,628.54,6285.4
+2023-12-10,Mouse,Midwest,15,1354.44,20316.6
+2023-08-20,Laptop,West Coast,8,142.84,1142.72
+2023-01-11,Keyboard,West Coast,19,369.32,7017.08
+2023-02-06,Mouse,East Coast,8,147.73,1181.84
+2023-01-17,Tablet,Midwest,3,795.53,2386.59
+2023-05-23,Mouse,South,7,831.89,5823.23
+2023-10-20,Keyboard,South,8,1187.7,9501.6
+2023-07-28,Smartphone,East Coast,4,1005.52,4022.08
+2023-07-01,Monitor,South,15,1302.56,19538.4
+2023-01-28,Mouse,East Coast,2,633.8,1267.6
+2023-06-23,Tablet,East Coast,8,327.81,2622.48
+2023-10-02,Monitor,West Coast,14,316.06,4424.84
+2023-08-25,Smartphone,East Coast,15,1221.63,18324.45
+2023-10-09,Laptop,East Coast,18,1262.24,22720.32
+2023-02-17,Tablet,West Coast,6,639.3,3835.8
+2023-09-04,Smartphone,South,2,288.72,577.44
+2023-01-02,Monitor,Midwest,15,463.61,6954.15
+2023-12-23,Mouse,South,5,325.35,1626.75
+2023-04-22,Laptop,East Coast,11,132.89,1461.79
+2023-10-27,Monitor,West Coast,2,1443.13,2886.26
+2023-02-11,Tablet,West Coast,3,912.8,2738.4
+2023-12-12,Tablet,West Coast,13,223.84,2909.92
+2023-10-19,Smartphone,East Coast,20,168.88,3377.6
+2023-12-03,Keyboard,Midwest,9,346.18,3115.62
+2023-06-10,Smartphone,Midwest,13,239.77,3117.01
+2023-11-27,Headphones,South,11,1397.08,15367.88
+2023-02-07,Laptop,South,20,1497.76,29955.2
+2023-02-21,Laptop,West Coast,17,434.54,7387.18
+2023-06-28,Laptop,West Coast,12,463.23,5558.76
+2023-08-13,Tablet,Midwest,20,1476.59,29531.8
+2023-12-01,Keyboard,East Coast,18,484.1,8713.8
+2023-12-06,Laptop,West Coast,9,217.37,1956.33
+2023-02-24,Mouse,West Coast,9,458.55,4126.95
+2023-04-18,Mouse,Midwest,7,1046.87,7328.09
+2023-05-16,Keyboard,South,9,1362.74,12264.66
+2023-01-27,Laptop,South,9,113.93,1025.37
+2023-06-20,Tablet,West Coast,9,284.29,2558.61
+2023-08-15,Keyboard,South,18,64.02,1152.36
+2023-02-08,Mouse,West Coast,18,102.24,1840.32
+2023-07-09,Keyboard,West Coast,14,234.8,3287.2
+2023-06-07,Headphones,East Coast,12,354.61,4255.32
+2023-05-08,Mouse,East Coast,12,1181.17,14174.04
+2023-07-28,Keyboard,West Coast,8,1303.68,10429.44
+2023-04-01,Monitor,East Coast,6,1118.02,6708.12
+2023-06-20,Tablet,South,8,436.87,3494.96
+2023-12-26,Laptop,South,2,1294.96,2589.92
+2023-04-24,Smartphone,South,12,492.53,5910.36
+2023-04-27,Smartphone,East Coast,7,627.78,4394.46
+2023-05-23,Tablet,East Coast,9,559.16,5032.44
+2023-09-18,Monitor,Midwest,1,217.25,217.25
+2023-05-14,Smartphone,Midwest,2,207.18,414.36
+2023-08-11,Headphones,Midwest,14,929.0,13006.0
+2023-09-19,Laptop,South,19,325.61,6186.59
+2023-01-23,Mouse,South,1,803.88,803.88
+2023-10-03,Mouse,West Coast,12,675.38,8104.56
+2023-12-07,Headphones,Midwest,4,1093.64,4374.56
+2023-06-03,Keyboard,Midwest,14,522.97,7321.58
+2023-12-23,Headphones,West Coast,7,659.65,4617.55
+2023-07-14,Mouse,West Coast,20,875.2,17504.0
+2023-07-27,Keyboard,East Coast,10,466.02,4660.2
+2023-08-09,Tablet,Midwest,15,690.59,10358.85
+2023-12-12,Smartphone,South,6,1005.33,6031.98
+2023-05-26,Keyboard,Midwest,3,1236.71,3710.13
+2023-05-01,Mouse,Midwest,8,1219.52,9756.16
+2023-03-17,Laptop,East Coast,8,1476.71,11813.68
+2023-11-09,Tablet,East Coast,15,650.94,9764.1
+2023-11-19,Keyboard,West Coast,13,766.85,9969.05
+2023-05-05,Smartphone,East Coast,4,1178.71,4714.84
+2023-04-23,Smartphone,South,2,858.24,1716.48
+2023-03-04,Monitor,West Coast,15,1017.99,15269.85
+2023-10-14,Keyboard,Midwest,15,938.35,14075.25
+2023-09-16,Monitor,South,6,1128.3,6769.8
+2023-09-01,Monitor,Midwest,8,1267.8,10142.4
+2023-05-22,Tablet,South,8,448.17,3585.36
+2023-02-09,Mouse,Midwest,8,443.99,3551.92
+2023-06-13,Keyboard,East Coast,5,268.7,1343.5
+2023-07-16,Mouse,West Coast,7,143.13,1001.91
+2023-07-28,Headphones,South,14,140.29,1964.06
+2023-08-04,Monitor,East Coast,19,601.55,11429.45
+2023-01-04,Headphones,Midwest,13,1287.5,16737.5
+2023-08-03,Keyboard,West Coast,16,368.16,5890.56
+2023-08-12,Monitor,East Coast,13,537.39,6986.07
+2023-12-14,Tablet,South,6,1268.73,7612.38
+2023-03-07,Keyboard,East Coast,13,908.24,11807.12
+2023-12-06,Laptop,East Coast,14,246.76,3454.64
+2023-08-25,Smartphone,East Coast,9,599.7,5397.3
+2023-04-19,Monitor,Midwest,11,1153.78,12691.58
+2023-07-14,Headphones,South,9,1260.62,11345.58
+2023-08-29,Laptop,East Coast,12,375.12,4501.44
+2023-02-05,Tablet,East Coast,1,1426.94,1426.94
+2023-04-13,Tablet,East Coast,20,270.95,5419.0
+2023-03-06,Monitor,East Coast,19,1424.25,27060.75
+2023-08-27,Mouse,Midwest,12,293.29,3519.48
+2023-11-07,Mouse,East Coast,6,1448.85,8693.1
+2023-02-25,Keyboard,East Coast,10,884.91,8849.1
+2023-07-12,Monitor,West Coast,3,908.54,2725.62
+2023-11-18,Smartphone,East Coast,10,1282.93,12829.3
+2023-11-04,Tablet,East Coast,19,1184.82,22511.58
+2023-06-27,Keyboard,South,12,149.99,1799.88
+2023-11-28,Headphones,East Coast,14,1242.38,17393.32
+2023-02-24,Monitor,Midwest,15,1075.6,16134.0
+2023-08-11,Smartphone,Midwest,20,1221.89,24437.8
+2023-10-03,Tablet,South,15,681.58,10223.7
+2023-10-31,Headphones,Midwest,8,1254.56,10036.48
+2023-02-14,Headphones,South,8,1138.19,9105.52
+2023-10-19,Keyboard,South,11,91.61,1007.71
+2023-06-16,Smartphone,South,7,564.5,3951.5
+2023-05-13,Headphones,Midwest,20,1066.72,21334.4
+2023-05-22,Keyboard,East Coast,17,1424.69,24219.73
+2023-02-13,Smartphone,South,16,855.01,13680.16
+2023-05-04,Mouse,South,16,699.85,11197.6
+2023-01-09,Laptop,Midwest,8,636.38,5091.04
+2023-05-05,Headphones,Midwest,16,852.54,13640.64
+2023-06-26,Monitor,Midwest,12,1069.14,12829.68
+2023-05-19,Headphones,Midwest,8,224.95,1799.6
+2023-04-09,Headphones,East Coast,18,1428.77,25717.86
+2023-12-20,Smartphone,West Coast,7,1120.98,7846.86
+2023-05-22,Mouse,Midwest,4,1257.31,5029.24
+2023-06-01,Smartphone,Midwest,6,488.29,2929.74
+2023-12-29,Keyboard,West Coast,9,116.0,1044.0
+2023-01-28,Keyboard,Midwest,5,974.91,4874.55
+2023-09-09,Laptop,East Coast,19,462.29,8783.51
+2023-09-03,Monitor,Midwest,6,1449.97,8699.82
+2023-05-10,Tablet,South,4,1242.07,4968.28
+2023-07-25,Monitor,East Coast,19,962.7,18291.3
+2023-01-28,Smartphone,West Coast,19,1426.23,27098.37
+2023-02-13,Smartphone,East Coast,18,1158.44,20851.92
+2023-11-07,Keyboard,West Coast,17,601.55,10226.35
+2023-08-15,Headphones,South,10,874.51,8745.1
+2023-01-31,Keyboard,East Coast,7,957.0,6699.0
+2023-05-16,Mouse,East Coast,6,397.8,2386.8
+2023-10-10,Laptop,West Coast,1,642.35,642.35
+2023-12-19,Keyboard,South,10,97.33,973.3
+2023-05-28,Mouse,Midwest,15,153.21,2298.15
+2023-04-30,Headphones,West Coast,14,216.43,3030.02
+2023-04-26,Mouse,West Coast,9,1248.62,11237.58
+2023-02-06,Laptop,West Coast,10,912.81,9128.1
+2023-10-19,Headphones,South,4,729.61,2918.44
+2023-06-05,Mouse,South,9,775.68,6981.12
+2023-09-10,Monitor,East Coast,20,107.8,2156.0
+2023-08-10,Mouse,Midwest,20,413.03,8260.6
+2023-02-16,Smartphone,East Coast,9,885.56,7970.04
+2023-03-31,Monitor,South,9,313.16,2818.44
+2023-10-27,Monitor,South,3,731.52,2194.56
+2023-07-29,Headphones,Midwest,4,1293.71,5174.84
+2023-06-18,Monitor,South,10,1010.75,10107.5
+2023-07-25,Tablet,East Coast,15,177.69,2665.35
+2023-05-10,Headphones,East Coast,13,1304.12,16953.56
+2023-01-01,Mouse,South,14,128.6,1800.4
+2023-09-23,Headphones,South,15,1151.99,17279.85
+2023-04-15,Headphones,West Coast,10,685.27,6852.7
+2023-12-24,Monitor,East Coast,1,1461.06,1461.06
+2023-11-08,Tablet,West Coast,6,500.59,3003.54
+2023-01-08,Keyboard,South,3,375.82,1127.46
+2023-02-28,Monitor,East Coast,5,772.64,3863.2
+2023-05-30,Keyboard,Midwest,14,1260.35,17644.9
+2023-08-30,Smartphone,South,18,259.73,4675.14
+2023-04-08,Keyboard,West Coast,3,450.56,1351.68
+2023-08-01,Headphones,Midwest,1,460.12,460.12
+2023-06-02,Tablet,South,5,697.49,3487.45
+2023-09-05,Headphones,Midwest,18,1156.17,20811.06
+2023-07-13,Monitor,Midwest,7,1472.12,10304.84
+2023-05-03,Keyboard,South,8,1291.22,10329.76
+2023-07-30,Laptop,Midwest,16,1072.58,17161.28
